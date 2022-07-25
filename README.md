@@ -3,10 +3,18 @@
 
 That's-My-IP API is an API to fetch details of the given IP Address. It's main features are:
 
-1. User authentication - SignUp & Login
-2. Request authentication - Checks if request is sent by an authenticated user.
-3. IP Lookup - Returns IP Address details in the form of JSON Response
-4. Supports both IPv4 and IPv6 Addresses
+## Features
 
+- Lightweight
+- Lighting Fast
+- User authentication (SignUp & Login)
+- Request validation: Checks if request is sent by an authenticated user.
+- Returns IP Address details as JSON Response
+- Supports both IPv4 & IPv6 Addresses
 
-![alt text](https://github.com/Raghav67816/that-s-my-ip-api/blob/6a9137e9ffe5119f60465af877104d211025114d/Preview.png)
+## Development Environment
+
+This API uses Python 3 packages listed in requirements.txt located in config directory of the project.
+Using virtual environment is recommended. It also uses IP2Location LITE Database downloadable from https://bit.ly/3S1ilvG.
+
+NOTE: You have to download D11 database. I have not included it here because of it's big size. However, after installing move that BIN file namely IP2LOCATION-LITE-DB11.IPV6.BIN to config directory.
