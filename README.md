@@ -8,3 +8,4 @@ That's-My-IP API is an API to fetch details of the given IP Address. It's main f
 3. IP Lookup - Returns IP Address details in the form of JSON Response
 4. Supports both IPv4 and IPv6 Addresses
 
+![alt text](./Preview.png, raw=True)
