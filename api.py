@@ -44,7 +44,7 @@ async def create_user(user_details: User):
         }
 
         user_collection.insert_one(user_data)  # Insert data
-        return {"Results": "New user successfully created.", "Message": "Please verify your email."}
+        return {"Results": "New user successfully created."}
 
     elif user_check == 0:  # SignUp denied
         return {"Results": "Error creating new user.", "Error": "Email already in use."}
