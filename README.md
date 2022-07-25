@@ -64,7 +64,7 @@ Congratulations ! Our local server is now running at localhost. Now, open your b
 
 ## License
 
-This project is licensed under [MIT](https://choosealicense.com/licenses/mit/) License. Please view License file for more information.
+This project is licensed under [MIT](https://github.com/Raghav67816/that-s-my-ip-api/blob/839c2c35aacfe4e9b1b25d492919a850782e8b67/LICENSE) License. Please view License file for more information.
 
 
 
