@@ -12,6 +12,8 @@ That's-My-IP API is an API to fetch details of the given IP Address. It's main f
 - Returns IP Address details as JSON Response
 - Supports both IPv4 & IPv6 Addresses
 
+![alt text](https://github.com/Raghav67816/that-s-my-ip-api/blob/669501fb5ee3b91b3bce1f3bb19874320149ed6b/Preview.png)
+
 ## Development Environment
 
 This API uses Python 3 packages listed in requirements.txt located in config directory of the project.
