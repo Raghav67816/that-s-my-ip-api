@@ -8,7 +8,7 @@ That's-My-IP API is an API to fetch details of the given IP Address. It's main f
 ## Features
 
 - Lightweight
-- Lighting Fast
+- Lightning Fast
 - User authentication (SignUp & Login)
 - Request validation: Checks if request is sent by an authenticated user.
 - Returns IP Address details as JSON Response
