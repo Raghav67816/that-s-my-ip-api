@@ -4,3 +4,4 @@ pymongo
 pydantic[Email]
 IP2Location
 passlib[bcrypt]
+pydnsbl
