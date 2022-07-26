@@ -70,12 +70,3 @@ def check_ip(target_ip: str):
 
     except ValueError:
         return 0
-    
-# Check ip type
-def check_ip_type(target_ip: str):
-    ip_value = ip_address(target_ip)
-    if isinstance(target_ip, IPv4Address):
-        return 2
-
-    elif isinstance(target_ip, IPv6Address):
-        return 4
