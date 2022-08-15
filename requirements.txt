@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+pymongo
+pydantic[Email]
+IP2Location
+passlib[bcrypt]
+pydnsbl
